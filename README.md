@@ -4,9 +4,12 @@
 
 * Although my major is not related to computer, I've been study hard until I graduate with my great passion!!
 
-✏ **Stack**  
-Python 
+✏ **Teck Stack**✏  
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+
+
+  
 - 🌱 I’m currently learning I’m currently learning Python, Data Visualization, Computer Science 
 - 📫 How to reach me: haknam97@gmail.com 
 - 😄 Pronouns: They, He 
