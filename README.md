@@ -4,7 +4,8 @@
 
 * Although my major is not related to computer, I've been study hard until I graduate with my great passion!!
 
-Skills: Python / 
+✏ **Stack**  
+Python 
 
 - 🌱 I’m currently learning I’m currently learning Python, Data Visualization, Computer Science 
 - 📫 How to reach me: haknam97@gmail.com 
