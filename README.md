@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Haknam
 #### I wanna be a passionate Cloud Engineer !
-![I wanna be a passionate Cloud Engineer !](https://i.esdrop.com/d/f/h8RcLC7LSH/duAKkwKm7r.png)
+<img src="https://i.esdrop.com/d/f/h8RcLC7LSH/duAKkwKm7r.png" width="550" height="350"/>
 
 * Although my major is not related to computer, I've been study hard until I graduate with my great passion!!
 
