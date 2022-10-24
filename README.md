@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Haknam
-#### I wanna be a passionate Cloud Engineer !
+#### I wanna be a passionate Devops Engineer !
 <img src="https://i.esdrop.com/d/f/h8RcLC7LSH/duAKkwKm7r.png" width="550" height="350"/>
 
 * Although my major is not related to computer, I've been study hard until I graduate with my great passion!!
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 
   
-- 🌱 I’m currently learning I’m currently learning Python, Data Visualization, Computer Science 
+- 🌱 I’m currently learning I’m currently learning Python, Data Visualization, Computer Science etc...
 - 📫 How to reach me: haknam97@gmail.com 
 - 😄 Pronouns: They, He 
 
