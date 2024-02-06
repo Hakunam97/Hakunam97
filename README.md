@@ -20,6 +20,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakunam97&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hakunam97)  
-
-![Profile views](https://gpvc.arturio.dev/Hakunam97)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hakunam97)](https://git.io/streak-stats)
